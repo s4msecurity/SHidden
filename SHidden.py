@@ -11,7 +11,7 @@ print("""
 .##....##.##.....##..##..##.....##.##......
 ..######..##.....##.####.########..########
 
-SammySec is a ready-to-use script for StegHide.
+S4m is a ready-to-use script for StegHide.
 
 With this program you can use complex steghide commands without entering.
 Be careful! StegHide software must be installed on your operating system. """)
